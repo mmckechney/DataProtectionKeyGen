@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataProtection": {
+      "commandName": "Project",
+      "commandLineArgs": "-d 10 -p . -k true"
+    }
+  }
+}
